@@ -1,2 +1,3 @@
 # FontTest
-Font size text App
+Android Font size text App
+up to Honnycom (API Level 11)
